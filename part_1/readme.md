@@ -220,7 +220,7 @@ grid.arrange(p1, p2, ncol=1)
   - used to help improve understanding of a time series and sometimes
     used to improve forecast
   - decomposition can also be used to generate seasonally adjusted data
-  - lecture notes from Professor
+  - [Hyndman lecture notes on decomposition](https://github.com/robjhyndman/ETC3550Slides/blob/fable/3-decomposition.pdf)
   - STL: seasonal and trend decomposition with loess
 
 #### STL decomposition
