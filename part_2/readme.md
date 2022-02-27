@@ -225,3 +225,4 @@ final_model %>%
 ### TODO
 - check residuals of final model
 - does there still look to be signal in the data? or concerns with residuals?
+- test box-cox transformation on sales
