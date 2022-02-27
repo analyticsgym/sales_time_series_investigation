@@ -235,5 +235,4 @@ final_model %>%
     FP\&P3](https://otexts.com/fpp3/)
   - [Hyndman’s blog](https://robjhyndman.com/hyndsight/)
   - [Hyndman’s Github lecture
-    notes](https://github.com/robjhyndman/ETC3550Slides/tree/fable) are
-    useful resources as well
+    notes](https://github.com/robjhyndman/ETC3550Slides/tree/fable)
