@@ -215,10 +215,13 @@ final_model %>%
 ![](part_2_sales_time_series_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
 ### Sources
-
   - [Rob J Hyndman and George Athanasopoulos
     FP\&P3](https://otexts.com/fpp3/)
   - [Hyndman’s blog](https://robjhyndman.com/hyndsight/)
   - [Hyndman’s Github lecture
     notes](https://github.com/robjhyndman/ETC3550Slides/tree/fable) are
     useful resources as well
+
+### TODO
+- check residuals of final model
+- does there still look to be signal in the data? or concerns with residuals?
